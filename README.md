@@ -1,4 +1,4 @@
-# 🤖 RoboMaster EP Autonomous SLAM & Maze Exploration (Class Work 8)
+# 🤖 RoboMaster EP Autonomous SLAM & Maze Exploration (ClassWork 8)
 
 ระบบสำรวจเขาวงกตและสร้างแผนที่อัตโนมัติ (Autonomous SLAM & Exploration) สำหรับหุ่นยนต์ **DJI RoboMaster EP** ในสนามตารางกริดจำลองขนาด 4×5 ช่อง (ขนาดช่องละ 60×60 ซม.) พร้อมฟังก์ชันตรวจจับแนวกำแพงโฟมด้วยเซนเซอร์ ToF, การจัดตำแหน่งกึ่งกลางช่อง (Recentering), การคำนวณเส้นทางด้วย BFS และการประเมินความถูกต้องของแผนที่ (Map Accuracy & Coverage)
 
